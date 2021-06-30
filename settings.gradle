@@ -1,0 +1,3 @@
+rootProject.name = "CheckoutAndroidSdk"
+include ':app'
+include ':checkout-android-sdk'
